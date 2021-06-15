@@ -7,6 +7,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       Bredvid React 101
+      New feature
     </div>
   )
 
